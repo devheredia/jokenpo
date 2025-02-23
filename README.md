@@ -3,7 +3,7 @@
 Bem-vindo ao **Jokenpô Flutter**! 🎮 Este é um aplicativo desenvolvido em Flutter que simula o clássico jogo do **Pedra, Papel e Tesoura**.
 
 ## 📱 Demonstração
-<img src="jokenpo/images/joken_po.png" alt="Jokenpô App" width="300">
+<img src="images/joken_po.png" alt="Jokenpô App" width="300">
 
 ## 🚀 Tecnologias Utilizadas
 - **Flutter** 🐦
